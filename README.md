@@ -1,4 +1,4 @@
-# learning-typescript
+# Introdução
 Meu primeiro contato com typescript e alguns conceito de Solid.
 
 Esse projeto foi feito com base em um vídeo do Diego Fernandes da RocketSeat. (Code/Drops #44)
